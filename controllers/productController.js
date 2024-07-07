@@ -1,3 +1,4 @@
+// !Imports
 const products = require("../api/data.json");
 
 exports.getProducts = (req, res) => {
