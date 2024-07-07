@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Macbook Air 15",
+    "price": "1599"
+  },
+  {
+    "id": 2,
+    "name": "Macbook Air 13",
+    "price": "1099"
+  },
+  {
+    "id": 3,
+    "name": "Macbook Air 13",
+    "price": "1699"
+  },
+  {
+    "id": 4,
+    "name": "Macbook Pro 15",
+    "price": "2099"
+  },
+  {
+    "id": 5,
+    "name": "iMac",
+    "price": "1499"
+  }
+]
